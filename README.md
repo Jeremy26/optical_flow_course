@@ -1,1 +1,1 @@
-# video_analysis_course
+# Optical Flow Course
